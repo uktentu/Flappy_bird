@@ -1,5 +1,5 @@
 # Flappy bird
-This is a real-time game created using **Python**, Made using [python -pygame](www.pygame.org).
+This is a real-time game created using **Python**, Made using [python -pygame](https://www.pygame.org).
 
 
 
